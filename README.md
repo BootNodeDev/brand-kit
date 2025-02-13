@@ -1,1 +1,1 @@
-# brand-kit
+# BootNode brand-kit
